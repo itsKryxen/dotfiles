@@ -104,13 +104,6 @@ cmd-k = 'focus up --boundaries all-monitors-outer-frame'
 cmd-l = 'focus right --boundaries all-monitors-outer-frame'
 
 
-# ===============================
-# Switch workspace
-# ctrl + alt + cmd + (y u i o p t)
-# ===============================
-# Workspaces (Alt + Shift + number)
-# ===============================
-
 alt-1 = 'workspace 1'
 alt-2 = 'workspace 2'
 alt-3 = 'workspace 3'
@@ -118,11 +111,6 @@ alt-4 = 'workspace 4'
 alt-5 = 'workspace 5'
 alt-6 = ['workspace 6', 'layout floating']
 
-
-# ===============================
-# Move window to workspace
-# Alt + Shift + number (same hand, hold longer)
-# ===============================
 
 alt-shift-1 = 'move-node-to-workspace 1 --focus-follows-window'
 alt-shift-2 = 'move-node-to-workspace 2 --focus-follows-window'
